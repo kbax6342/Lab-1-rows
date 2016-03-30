@@ -1,0 +1,15 @@
+.video > .video-games {
+    display:inline-block;
+    border: black solid;
+    height: 100px;
+/*    padding: 30px;*/
+    width: 300px;
+}
+
+.coding > .computer {
+    display: inline-block;
+    border: black solid;
+    height: 100px;
+/*    padding: 30px;*/
+    width:300px;
+}
